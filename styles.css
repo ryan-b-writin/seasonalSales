@@ -1,0 +1,12 @@
+.card {
+  display: block;
+  width: 15%;
+  height: 150px;
+  border: 1px solid black;
+  padding: 1%;
+  margin: 1%;
+}
+
+.card h5 {
+  color: red;
+}
