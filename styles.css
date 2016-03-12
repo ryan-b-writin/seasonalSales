@@ -5,6 +5,7 @@
   border: 1px solid black;
   padding: 1%;
   margin: 1%;
+  float: left;
 }
 
 .card h5 {
